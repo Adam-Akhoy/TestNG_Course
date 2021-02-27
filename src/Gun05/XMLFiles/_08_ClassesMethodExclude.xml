@@ -1,0 +1,15 @@
+<suite name="suit1">  <!-- tum testleri kapsayan bolum-->
+
+<test name="test1">   <!-- test 1 i kapsayan bolum-->
+        <classes>     <!-- calisacak class larin yazildigi bolum-->
+    <class name="Gun05._02_Intro">
+        <methods>
+            <exclude name="TestIntro1"></exclude>
+        </methods>
+    </class>
+    </classes>
+</test>
+
+
+
+</suite>
